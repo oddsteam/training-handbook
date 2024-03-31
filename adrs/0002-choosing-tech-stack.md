@@ -1,11 +1,15 @@
-Choosing Tech Stack
+# Choosing Tech Stack
+
 Date: 2024-03-30
 
-Status
+## Status
+
 Accepted
 
-Context
-เพื่อความรวดเร็วในการทำ Design
+## Context
 
-Decision
-UI Design เลือกเป็นกระดาษ
+เพื่อให้เห็นภาพ UI ที่ตรงกันกับทุกทีมได้อย่างรวดเร็วและว่องไว 
+
+## Decision
+
+- Design เลือกใช้กระดาษในการทำ UI
