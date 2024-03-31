@@ -8,11 +8,8 @@ Accepted
 
 ## Context
 
-ทุก ๆ ทีมถนัดพวก Framework ที่เป็น JavaScript และถนัดในการแยก Frontend กับ Backend
+การแสดงผลของ Class List 
 
 ## Decision
 
-- เก็บรูปของ Instructure แต่ละ Class ไว้ใน source.public เพราะจะได้ไม่ต้องเสียเวลาโหลด
-- Backend ใช้ Node.js กับ Express
-- Database ใช้ MongoDB
-- Infra ใช้ของ AWS
+- mock data ในส่วนของจำนวน register เพื่อความรวดเร็วในการตรวบสอบการแสดงปุ่ม regiser และ request
